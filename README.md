@@ -12,7 +12,7 @@ Bypass's the glue of emily's symbols to give yourself a better margin of error i
 - `SKWHAOFPL/#A*` → `( a`  
  
 ### Theory rules:
-Fingerspelling now has glues onto existing words
+Fingerspelling now glues onto existing words
 
 - `A*` → `a`
 - `-T/A*` → `thea`
